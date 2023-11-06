@@ -12,6 +12,7 @@ a{
   text-decoration: none;
   color: Hot-Pink;
 }
+
 .assign{
   background-color: DarkTurquoise;
   margin: 10px;
@@ -21,4 +22,5 @@ a{
 .assign img {
   width: 200px;
   margin: 10px;
+  border: 2px solid midnightblue;
 }
