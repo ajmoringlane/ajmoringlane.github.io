@@ -4,8 +4,13 @@ background-color: DimGrey;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  color:lightblue;
+  color:MediumOrchid;
   text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: Hot-Pink;
 }
 .assign{
   background-color: DarkTurquoise;
